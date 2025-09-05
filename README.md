@@ -33,7 +33,7 @@ JAVA developer
 
 My contact:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) @Victor_G793
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) [_@Victor_G793_](https://t.me/Victor_G793)
 
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) https://www.linkedin.com/in/victorgotsenko/
