@@ -7,8 +7,6 @@ JAVA developer
 * Continuously deepening expertise: studying architectural patterns, performance optimization, and modern development tools.
 * Also I'm open to collaborating on any java based projects
 
-#### My CV on HEXLET - [_JAVA разработчик_](https://cv.hexlet.io/ru/resumes/8775)
-
 ### My tools box 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
@@ -23,8 +21,10 @@ JAVA developer
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-#### My CV on HEXLET (https://cv.hexlet.io/ru/resumes/8775)
+#### My CV on HEXLET - [_JAVA developer_](https://cv.hexlet.io/ru/resumes/8775)
 
 My contact:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) @Victor_G793
+
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) https://www.linkedin.com/in/victorgotsenko/
