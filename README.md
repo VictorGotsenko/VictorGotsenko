@@ -24,6 +24,7 @@ JAVA developer
 #### My CV on HEXLET - [_JAVA developer_](https://cv.hexlet.io/ru/resumes/8775)
 
 My contact:
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) @Victor_G793
 
 
